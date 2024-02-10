@@ -1,0 +1,19 @@
+theme: jekyll-theme-minimal
+title: TheWestBobersWebsite
+description: Pivotal Movies
+show_downloads: False
+navigation:
+  - title: Introduction
+    url: /
+  - title: Our Method
+    url: "/our_method"
+  - title: The Results
+    url: "/the_results"
+  - title: Conclusion
+    url: "/conclusion"
+  - title: Ethics
+    url: "/ethics"
+  - title: The Nerd Corner Extra
+    url: "/the_data"
+redirects:
+  "/": "/README"
